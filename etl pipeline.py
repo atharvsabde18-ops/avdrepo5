@@ -2,7 +2,7 @@
 
 
 
-
+name: etl pipeline
 on:
     push:
         branches:
